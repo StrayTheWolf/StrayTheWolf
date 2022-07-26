@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrayTheWolf
 - 👀 I’m interested in programming web and creating games
-- 🌱 I’m currently learning all stuff on web programming and also C# with Unity engine
+- 🌱 I’m currently learning C# with Unity engine, also i worked with JS,PHP,HTML,CSS(Web) some time ago
 - 📫 How to reach me, simple, just send a note to whitehuskywolfy@gmail.com
 
 <!---
